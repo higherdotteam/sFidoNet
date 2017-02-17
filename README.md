@@ -19,7 +19,7 @@ slack FidoNet
 
 4. You build a rep as an ambassador for what messages you allow to flow out of your org. i.e. don't let spam flow out.
 
-5. You also build as an ambassador other ambassadors that want to work with you.
+5. You also build as an ambassador a network of other ambassadors that want to work with you.
 
 6. Depending on your network ambassador's reach, you might be able to get your message from your org to to next org in 1 hop.
 
