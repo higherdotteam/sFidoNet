@@ -21,6 +21,6 @@ slack FidoNet
 
 5. You also build as an ambassador a network of other ambassadors that want to work with you.
 
-6. Depending on your network ambassador's reach, you might be able to get your message from your org to to next org in 1 hop.
+6. Depending on your network ambassador's reach, you might be able to get your message from your org to the next org in 1 hop.
 
 7. This is very much like linkedin's hey send this message to bob you know bob I don't feature, but hopefully with some new twists only possible with slack.
