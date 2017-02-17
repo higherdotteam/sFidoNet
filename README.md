@@ -1,5 +1,5 @@
 # sFidoNet
-slack FidoNet system to send job listings to specific people and to suggest certain people as right person for a job
+slack FidoNet
 
 1. Each slack org is the powerful place of official work business. A message in your company's slack network means something more than an email.
 
